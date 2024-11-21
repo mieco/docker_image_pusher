@@ -13,7 +13,8 @@
 
 #valkey/valkey:8
 
-postgres
+#postgres
+treeverse/lakefs:latest
 
 #nginx1
 #支持私库
