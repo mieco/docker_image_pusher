@@ -14,7 +14,7 @@
 #valkey/valkey:8
 
 #postgres
-treeverse/lakefs:latest
+#treeverse/lakefs:latest
 
 #nginx1
 #支持私库
@@ -22,3 +22,10 @@ treeverse/lakefs:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+#mlflow
+ghcr.io/mlflow/mlflow:v2.19.0
+
+atkrad/wait4x
+
+continuumio/miniconda3:latest
