@@ -25,6 +25,7 @@
 
 #mlflow
 ghcr.io/mlflow/mlflow:v2.19.0
+ghcr.io/mlflow/mlflow:v2.5.0
 
 atkrad/wait4x
 
