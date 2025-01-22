@@ -24,9 +24,11 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #mlflow
-ghcr.io/mlflow/mlflow:v2.19.0
-ghcr.io/mlflow/mlflow:v2.5.0
+#ghcr.io/mlflow/mlflow:v2.19.0
+#ghcr.io/mlflow/mlflow:v2.5.0
 
-atkrad/wait4x
+#atkrad/wait4x
 
-continuumio/miniconda3:latest
+#continuumio/miniconda3:latest
+
+python:3.10-slim-bookworm
