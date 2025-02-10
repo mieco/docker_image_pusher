@@ -31,4 +31,5 @@
 
 #continuumio/miniconda3:latest
 
-python:3.10-slim-bookworm
+#python:3.10-slim-bookworm
+ollama/ollama
