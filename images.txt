@@ -29,6 +29,8 @@
 
 #atkrad/wait4x
 
+--platform linux/amd64 calciumion/new-api:latest
+
 #continuumio/miniconda3:latest
 
 #ollama/ollama
