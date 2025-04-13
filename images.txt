@@ -34,4 +34,4 @@
 #continuumio/miniconda3:latest
 
 #ollama/ollama
-ghcr.io/open-webui/open-webui:cuda
+#ghcr.io/open-webui/open-webui:cuda
